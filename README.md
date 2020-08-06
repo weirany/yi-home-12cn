@@ -3,7 +3,7 @@
 1. You have to downgrade to correct firmware version.
 2. Get an SD Card
 3. Format the SDCard with FAT32
-4. Download `1.8.5.1K_201508311131.zip`
+4. Download `1.8.5.1K_201508311131.zip` (or `1.8.6.1B.zip` if `1.8.5.1k` gets stuck at 90% camera sync)
 5. Extract it and copy the file on the SDCard
 6. Get an Android and install `com.ants360.yicamera.apk`
 7. Turn off the camera.
